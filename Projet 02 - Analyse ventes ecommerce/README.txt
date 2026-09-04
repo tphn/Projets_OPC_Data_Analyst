@@ -5,7 +5,7 @@ Analyses
 - Nombre de ventes et visites
 - Taux de conversion des visites
 - Habitudes d'achats des clients
-- Variabilité du temps passé de le site web
+- Variabilité du temps passé sur le site web
 
 Méthode et outils
 
