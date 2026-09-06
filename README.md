@@ -1,4 +1,4 @@
-Ce repo sert à compiler les livrables des projets réalisés lors de la formation Openclassrrooms Data Analyst (2024-2026).
+Ce repo sert à compiler les livrables des projets réalisés lors de la formation Openclassrooms Data Analyst (2024-2026).
 
 ## Sommaire
 ---
